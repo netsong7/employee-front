@@ -13,7 +13,7 @@ export default class HeaderComponent extends Component {
           <nav className="navbar navbar-expand-md navbar-dark bg-dark">
             <div className="container mt-4">
               <div className="d-flex justify-content-center">
-                <h1 className="text-primary">Jenkins</h1>
+                <h1 className="text-primary">Jenkins-netsong7</h1>
               </div>
             </div>
           </nav>
